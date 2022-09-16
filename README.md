@@ -20,7 +20,7 @@ This CPUs are designed to replace the 10-year old LGA 1366 chipset X58 / 5520 </
 Cinebench R15 R20 R23 single-core performance is almost twice. </br>
 X5690 / W3690 / i7-990x were the fastest 6-core / 12-Threads CPUs of LGA1366 </br>
 R15 single core make 111cb vs. 184cb of Gold 6144 </br>
-R20 single core make 227cb points vs. 450cb of LGA 3647 vs. the best today >800cb. </br> 
+R20 single core make 227cb points vs. <440cb of LGA 3647 vs. the best today >800cb. </br> 
 aprox +65% more.</p>
 
 https://www.cpu-monkey.com/it//cpu_benchmark-cinebench_r15_single_core-7 </br>
@@ -63,6 +63,8 @@ Best 12-core/24-Threads CPUs for LGA 3647 </p>
 #4. Gold 6146  3.2 / 4.2 / 24.7MB </br>
 #5. Gold 6226  2.7 / 3.7 / 19.2MB </p>
 
+https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_gold_6144-vs-intel_xeon_w_3235 </br>
+
 https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%206246.html </br>
 https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%206146.html </br>
 https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%206226.html </br>
@@ -81,6 +83,9 @@ Best 16-core/32-Threads CPUs for LGA 3647 </p>
 #4. Gold 6226R    2.9 / 3.9 / 22MB </br>
 #5. Gold 6143     2.8 / 4.0 / 22MB </br>
 #6. Gold 6142/F/M 2.6 / 3.7 / 22MB </p>
+
+https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_gold_6144-vs-intel_xeon_w_3245m </br>
+https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_gold_6144-vs-intel_xeon_w_3245 </br>
 
 https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%206143.html </br>
 https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%206142.html </br>
