@@ -106,6 +106,10 @@ Best 28-core / 56-Thread CPUs for LGA 3647 </p>
 #2. W-3275     2.5 / 4.6 / 38.5MB *No-M = 1TB RAM. </br>
 #3. W-3175X    3.1 / 4.3 / 38.5MB </p>
 
+https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_gold_6144-vs-intel_xeon_w_3175x </br>
+https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_gold_6144-vs-intel_xeon_w_3275m </br>
+https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_gold_6144-vs-intel_xeon_w_3275 </br>
+
 https://www.cpu-world.com/CPUs/Xeon_W/Intel-Xeon%20W%20W-3275M.html </br>
 https://www.cpu-world.com/CPUs/Xeon_W/Intel-Xeon%20W%20W-3175X.html </br>
 https://www.cpu-world.com/CPUs/Xeon_W/Intel-Xeon%20W%20W-3275.html </p>
