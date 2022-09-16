@@ -6,8 +6,9 @@ https://en.wikipedia.org/wiki/80_Plus#Efficiency_level_certifications </p>
 
 LGA 3647 has 2 Tik Tok Generations, like all other CPUs. </br>
 LGA 3647 advantage is the 64x PCIe v3.0 lanes, vs. smaller CPUs like 2066 2011 1151 etc... </br>
-but within the same LGA3647 CPUs, is Not clear </br>
-Numbers vs. Metals vs. Specs, its a Word Soup. </br>
+The Xeon advantage vs. i7 i9 is the ECC memory. </br>
+but within the same 3647 CPUs, is Not clear: </br>
+Numbers vs. Metals vs. Specs, a Word Soup. </br>
 100 CPUs but most are very Bad. </br>
 there is Not a Clear Winner in most categories, </br>
 there is always a compromise. </p>
