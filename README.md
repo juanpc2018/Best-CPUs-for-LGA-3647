@@ -10,7 +10,7 @@ but within the same LGA3647 CPUs, is Not clear </br>
 Numbers vs. Metals vs. Specs, its a Word Soup. </br>
 100 CPUs but most are very Bad. </br>
 there is Not a Clear Winner in most categories, </br>
-there is always a compromise, a corner cut. </p>
+there is always a compromise. </p>
 
 This list is to put an spot light on those CPUs that can make a difference. </p>
 This CPUs are designed to replace the old LGA 1366 chipset X58 / 5520 </p>
