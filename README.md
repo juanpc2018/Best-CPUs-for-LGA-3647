@@ -22,6 +22,8 @@ https://www.cpu-monkey.com/it//cpu_benchmark-cinebench_r15_single_core-7 </br>
 https://www.cpu-monkey.com/en/cpu_benchmark-cinebench_r20_single_core-9 </br>
 https://www.cpu-monkey.com/en/cpu_benchmark-cinebench_r23_single_core-15 </p>
 
+True performance increase can only be measured at same Clock speed.
+
 ---------
 
 Best 8-core/16-Threads CPUs for LGA 3647 </br>
