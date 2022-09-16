@@ -41,7 +41,11 @@ W-32xx / 62xx = Cascade Lake. </p>
 #4. Gold 6144           3.5 / 4.2 / 24.7MB *48x PCIe lanes. </br>
 #5. W-3223              3.5 / 4.2 / 16.5MB *64x PCIe lanes.  </p>
 
-https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_gold_6144-vs-intel_xeon_w_3223
+https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_gold_6144-vs-intel_xeon_w_3223 </br>
+https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_gold_6144-vs-intel_xeon_w_3225 </br>
+https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_gold_6144-vs-intel_xeon_gold_6244 </br>
+https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_gold_6144-vs-intel_xeon_gold_6250 </br>
+https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_gold_6144-vs-intel_xeon_gold_6250l </p>
 
 https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%206144.html </br>
 https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%206244.html </br>
