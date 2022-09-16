@@ -14,7 +14,7 @@ there is always a compromise. </p>
 
 This list is to put an spot light on those CPUs that can make a difference. </br>
 This CPUs are designed to replace the 10-year old LGA 1366 chipset X58 / 5520 </p>
-Cinebench R15 R20 R23 single-core performance is almost twice. 
+Cinebench R15 R20 R23 single-core performance is almost twice. </br>
 X5690 / W3690 / i9-990x were the fastest 6-core / 12-Threads CPUs of LGA1366 </br>
 in R20 those make 227 points vs. 450cb in LGA 3647 vs. the best today >800cb. </p> 
 
