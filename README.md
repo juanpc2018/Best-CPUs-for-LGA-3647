@@ -35,7 +35,7 @@ https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%206250L.html </p>
 
 ---------------------
 
-Best 12-core/24-Threads CPUS for LGA 3647 </p>
+Best 12-core/24-Threads CPUs for LGA 3647 </p>
 
 #1. Gold 6256  3.6 / 4.5 / 33MB </br>
 #2. W-3235     3.3 / 4.5 / 19.2MB *IF Turbo is more important than cache. </br>
