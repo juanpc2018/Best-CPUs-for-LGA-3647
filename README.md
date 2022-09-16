@@ -1,7 +1,8 @@
 ## Best CPUs for LGA 3647 chipset C621 </p>
 
 Intel Bronze / Silver / Gold / Platinum </br>
-an effort to classify CPUs like 80Plus Energy efficiency standard. </p>
+an effort to classify CPUs like 80Plus Energy efficiency standard. </br>
+https://en.wikipedia.org/wiki/80_Plus#Efficiency_level_certifications </p>
 
 LGA 3647 has 2 Tik Tok Generations, like all other CPUs. </br>
 LGA 3647 advantage is the 64x PCIe v3.0 lanes, vs. smaller CPUs like 2066 2011 1151 etc... </br>
