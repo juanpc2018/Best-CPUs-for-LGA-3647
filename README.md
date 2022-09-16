@@ -12,8 +12,8 @@ Numbers vs. Metals vs. Specs, its a Word Soup. </br>
 there is Not a Clear Winner in most categories, </br>
 there is always a compromise. </p>
 
-This list is to put an spot light on those CPUs that can make a difference. </p>
-This CPUs are designed to replace the old LGA 1366 chipset X58 / 5520 </p>
+This list is to put an spot light on those CPUs that can make a difference. </br>
+This CPUs are designed to replace the 10-year old LGA 1366 chipset X58 / 5520 </p>
 
 ---------
 
