@@ -11,7 +11,7 @@ i3 i5 i7 i9 advantage since 4th Gen is the Internal Graphics, vs. Xeon need exte
 
 within the same 3647 CPUs, is Not clear: </br>
 Numbers vs. Metals vs. Specs, a Word Soup. </br>
-100 CPUs, most are very Bad. </br>
+most are very Bad. </br>
 there is Not a Clear Winner in most categories, </br>
 there is always a compromise. </p>
 
