@@ -20,7 +20,8 @@ This CPUs are designed to replace the 10-year old LGA 1366 chipset X58 / 5520 </
 Cinebench R15 R20 R23 single-core performance is almost twice. </br>
 X5690 / W3690 / i7-990x were the fastest 6-core / 12-Threads CPUs of LGA1366 </br>
 R15 single core make 111cb vs. 184cb of Gold 6144 </br>
-R20 single core make 227cb points vs. 450cb of LGA 3647 vs. the best today >800cb. </p> 
+R20 single core make 227cb points vs. 450cb of LGA 3647 vs. the best today >800cb. </br> 
+aprox +65% more.</p>
 
 https://www.cpu-monkey.com/it//cpu_benchmark-cinebench_r15_single_core-7 </br>
 https://www.cpu-monkey.com/en/cpu_benchmark-cinebench_r20_single_core-9 </br>
