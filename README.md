@@ -15,6 +15,8 @@ there is always a compromise, a corner cut. </p>
 This list is to put an spot light on those CPUs that can make a difference. </p>
 This CPUs are designed to replace the old LGA 1366 chipset X58 / 5520 </p>
 
+---------
+
 Best 8-core/16-Threads CPUs for LGA 3647 </br>
 W-31xx / 61xx = Skylake. </br>
 W-32xx / 62xx = Cascade Lake. </p>
