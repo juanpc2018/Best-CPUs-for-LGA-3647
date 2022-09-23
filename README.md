@@ -57,7 +57,7 @@ Best 8-core/16-Threads CPUs for LGA 3647 </br>
 W-31xx / 61xx = Skylake. </br>
 W-32xx / 62xx = Cascade Lake. </br>
 W-3xxx = 1-socket, No Optane Persistent Memory Support. </br>
-Optane Persistant Memory requires CPU & board compatible. </p>
+Optane Persistant Memory requires compatible CPU & board. </p>
 
 #1. Gold 6250 / 6250L   3.9 / 4.5 / 35.7MB </br>
 #2. Gold 6244           3.6 / 4.4 / 24.7MB </br>
