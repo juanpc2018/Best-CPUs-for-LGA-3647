@@ -31,8 +31,8 @@ True performance increase can only be measured at same Clock speed, same # cores
 ---------
 
 Best 4-core/8-Threads CPUs for LGA 3647 </br>
-W-31xx / 61xx = Skylake. </br>
-W-32xx / 62xx = Cascade Lake. </p>
+W-31xx / x1xx = Skylake. </br>
+W-32xx / x2xx = Cascade Lake. </p>
 
 #1. Xeon 5222 3.8 / 3.9 / 16.5MB / 4-socket </br>
 #2. Xeon 5122 3.6 / 3.7 / 16.5MB / 4-socket </br>
