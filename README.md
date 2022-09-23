@@ -35,10 +35,10 @@ Best 4-core/8-Threads CPUs for LGA 3647 </br>
 W-31xx / 61xx = Skylake. </br>
 W-32xx / 62xx = Cascade Lake. </p>
 
-#1. Xeon 5222 3.8 / 3.9 / 16.5MB / 4-socket
-#2. Xeon 5122 3.6 / 3.7 / 16.5MB / 4-socket
-#3. Xeon 8256 3.8 / 3.9 / 16.5MB / 8-cocket
-#4. Xeon 8156 3.6 / 3.7 / 16MB / 8-socket
+#1. Xeon 5222 3.8 / 3.9 / 16.5MB / 4-socket </br>
+#2. Xeon 5122 3.6 / 3.7 / 16.5MB / 4-socket </br>
+#3. Xeon 8256 3.8 / 3.9 / 16.5MB / 8-cocket </br>
+#4. Xeon 8156 3.6 / 3.7 / 16MB / 8-socket </p>
 
 https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%205122.html </br>
 https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%205222.html </p>
