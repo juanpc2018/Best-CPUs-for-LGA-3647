@@ -42,6 +42,14 @@ x2xx = Cascade Lake. </p>
 https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%205122.html </br>
 https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%205222.html </p>
 
+---------
+
+Best 6-core/12-Threads CPUs for LGA 3647 </br>
+
+#1. Xeon 6128 3.4 / 3.7 / 19.2MB / 4-socket </p>
+
+https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%206128.html </p>
+
 ----
 
 Best 8-core/16-Threads CPUs for LGA 3647 </br>
