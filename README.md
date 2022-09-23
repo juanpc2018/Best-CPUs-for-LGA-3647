@@ -48,7 +48,8 @@ Best 6-core/12-Threads CPUs for LGA 3647 </br>
 
 #1. Xeon 6128 3.4 / 3.7 / 19.2MB / 4-socket </p>
 
-https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%206128.html </p>
+https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%206128.html </br>
+https://cpu-benchmark.org/cpu/intel-xeon-gold-6128/ </p>
 
 ----
 
