@@ -81,11 +81,12 @@ https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%206250L.html </p>
 
 Best 12-core/24-Threads CPUs for LGA 3647 </p>
 
-#1. Gold 6256  3.6 / 4.5 / 33MB </br>
-#2. W-3235     3.3 / 4.5 / 19.2MB *IF Turbo is more important than cache. </br>
-#3. Gold 6246  3.3 / 4.2 / 24.7MB *IF cache is more important than Turbo. </br>
-#4. Gold 6146  3.2 / 4.2 / 24.7MB </br>
-#5. Gold 6226  2.7 / 3.7 / 19.2MB </p>
+#1. Gold 6256      3.6 / 4.5 / 33MB </br>
+#2. W-3235         3.3 / 4.5 / 19.2MB *1-socket, Turbo more important than cache. </br>
+#3. Gold 6246      3.3 / 4.2 / 24.7MB *2-socket, Cache more important than Turbo. </br>
+#4. Gold 6146      3.2 / 4.2 / 24.7MB </br>
+#5. Platinum 8158  3.0 / 3.7 / 24.7MB </br> *8-socket
+#6. Gold 6226      2.7 / 3.7 / 19.2MB </p> *2-cocket
 
 https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_gold_6144-vs-intel_xeon_w_3235 </br>
 
@@ -93,7 +94,8 @@ https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%206246.html </br>
 https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%206146.html </br>
 https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%206226.html </br>
 https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%206256.html </br>
-https://www.cpu-world.com/CPUs/Xeon_W/Intel-Xeon%20W%20W-3235.html </p>
+https://www.cpu-world.com/CPUs/Xeon_W/Intel-Xeon%20W%20W-3235.html </br>
+https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%208158.html </p>
 
 Clear Winner. </p>
 
