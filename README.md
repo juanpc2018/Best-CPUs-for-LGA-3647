@@ -134,9 +134,13 @@ No Clear Winner in this category. </p>
 
 Best 28-core / 56-Thread CPUs for LGA 3647 </p>
 
-#1. W-3275M    2.5 / 4.6 / 38.5MB *M = 2TB RAM. </br>
-#2. W-3275     2.5 / 4.6 / 38.5MB *No-M = 1TB RAM. </br>
-#3. W-3175X    3.1 / 4.3 / 38.5MB </p>
+#1. W-3275M            2.5 / 4.6 / 38.5MB *M = 2TB RAM. </br>
+#2. W-3275             2.5 / 4.6 / 38.5MB *No-M = 1TB RAM. </br>
+#3. W-3175X            3.1 / 4.3 / 38.5MB </br>
+#4. Platinum 8276      2.2 / 4.0 / 38.5MB *8-socket 165W </br>
+#5. Platinum 8176F     2.1 / 3.8 / 38.5MB *2-socket </br>
+#6. Platinum 8280/L/M  2.7 / 4.0 / 38.5MB *8-socket 205W </br>
+#7. Platinum 8284      3.0 / 4.0 / 38.5MB *8-socket 240W </>
 
 https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_gold_6144-vs-intel_xeon_w_3175x </br>
 https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_gold_6144-vs-intel_xeon_w_3275m </br>
@@ -144,6 +148,10 @@ https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_gold_6144-vs-intel_xeon_w_3
 
 https://www.cpu-world.com/CPUs/Xeon_W/Intel-Xeon%20W%20W-3275M.html </br>
 https://www.cpu-world.com/CPUs/Xeon_W/Intel-Xeon%20W%20W-3175X.html </br>
-https://www.cpu-world.com/CPUs/Xeon_W/Intel-Xeon%20W%20W-3275.html </p>
+https://www.cpu-world.com/CPUs/Xeon_W/Intel-Xeon%20W%20W-3275.html </br>
+https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%208176F.html </br>
+https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%208276.html </br>
+https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%208280.html </br>
+https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%208284.html </p>
 
 ------------------------------
