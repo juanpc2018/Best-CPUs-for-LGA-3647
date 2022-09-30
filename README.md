@@ -40,7 +40,9 @@ x2xx = Cascade Lake. </p>
 #4. Xeon 8156 3.6 / 3.7 / 16.5MB / 8-socket </p>
 
 https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%205122.html </br>
-https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%205222.html </p>
+https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%205222.html </br>
+https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%208156.html </br>
+https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%208256.html </p>
 
 ---------
 
@@ -108,7 +110,9 @@ Best 16-core/32-Threads CPUs for LGA 3647 </p>
 #3. Gold 6246R    3.4 / 4.1 / 35.7MB *#1. IF cache is more important than Turbo. </br>
 #4. Gold 6226R    2.9 / 3.9 / 22MB </br>
 #5. Gold 6143     2.8 / 4.0 / 22MB </br>
-#6. Gold 6142/F/M 2.6 / 3.7 / 22MB </p>
+#6. Gold 6142/F/M 2.6 / 3.7 / 22MB </br>
+#7. Platinum 8253 2.2 / 3.0 / 22MB *8-socket </br>
+#8. Platinum 8153 2.0 / 2.8 / 22MB *8-socket </p>
 
 https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_gold_6144-vs-intel_xeon_w_3245m </br>
 https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_gold_6144-vs-intel_xeon_w_3245 </br>
@@ -121,6 +125,8 @@ https://www.cpu-world.com/CPUs/Xeon_W/Intel-Xeon%20W%20W-3245M.html </br>
 https://www.cpu-world.com/CPUs/Xeon_W/Intel-Xeon%20W%20W-3245.html </br>
 https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%206246R.html </br>
 https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%206226R.html </br>
+https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%208153.html </br>
+https://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%208253.html </p>
 
 No Clear Winner in this category. </p>
 
