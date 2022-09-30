@@ -87,8 +87,8 @@ Best 12-core/24-Threads CPUs for LGA 3647 </p>
 #2. W-3235         3.3 / 4.5 / 19.2MB *1-socket, Turbo more important than cache. </br>
 #3. Gold 6246      3.3 / 4.2 / 24.7MB *2-socket, Cache more important than Turbo. </br>
 #4. Gold 6146      3.2 / 4.2 / 24.7MB </br>
-#5. Platinum 8158  3.0 / 3.7 / 24.7MB </br> *8-socket
-#6. Gold 6226      2.7 / 3.7 / 19.2MB </p> *2-cocket
+#5. Platinum 8158  3.0 / 3.7 / 24.7MB *8-socket </br> 
+#6. Gold 6226      2.7 / 3.7 / 19.2MB *2-cocket </p> 
 
 https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_gold_6144-vs-intel_xeon_w_3235 </br>
 
