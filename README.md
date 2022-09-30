@@ -65,7 +65,7 @@ Optane Persistant Memory requires compatible CPU & board. </p>
 #2. Gold 6244           3.6 / 4.4 / 24.7MB </br>
 #3. W-3225              3.7 / 4.4 / 16.5MB </br>
 #4. Gold 6144           3.5 / 4.2 / 24.7MB *48x PCIe lanes. </br>
-#5. W-3223              3.5 / 4.2 / 16.5MB *64x PCIe lanes.  </p>
+#5. W-3223              3.5 / 4.2 / 16.5MB *64x PCIe lanes. </p>
 
 https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_gold_6144-vs-intel_xeon_w_3223 </br>
 https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_gold_6144-vs-intel_xeon_w_3225 </br>
@@ -140,7 +140,7 @@ Best 28-core / 56-Thread CPUs for LGA 3647 </p>
 #4. Platinum 8276      2.2 / 4.0 / 38.5MB *8-socket 165W </br>
 #5. Platinum 8176F     2.1 / 3.8 / 38.5MB *2-socket </br>
 #6. Platinum 8280/L/M  2.7 / 4.0 / 38.5MB *8-socket 205W </br>
-#7. Platinum 8284      3.0 / 4.0 / 38.5MB *8-socket 240W </>
+#7. Platinum 8284      3.0 / 4.0 / 38.5MB *8-socket 240W </p>
 
 https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_gold_6144-vs-intel_xeon_w_3175x </br>
 https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_gold_6144-vs-intel_xeon_w_3275m </br>
