@@ -8,7 +8,7 @@ LGA 3647 has 2 Tik Tok Generations, like all other CPUs. </br>
 Xeon advantage vs. i7 i9 is the ECC memory. </br>
 i3 i5 i7 i9 advantage since 4th Gen is the Intel Graphics, vs. Xeon need external GPU. </p>
 
-within the same 3647 CPUs, is Not clear: </br>
+within the same 3647 CPUs, is Not clear... </br>
 Numbers vs. Metals vs. Specs, a Word Soup. </br>
 most are very Bad. </br>
 there is Not a Clear Winner in most categories, </br>
